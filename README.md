@@ -18,7 +18,7 @@
         </div>
     </div>
 </div>
-<br>
+
 <div>
     <h1 align="center">My stats</h1>
     <div align="center">
@@ -26,7 +26,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" width="45%">
     </div>
 </div>
-<br>
+
 <div>
     <h1 align="center">🔗 Contact me</h1>
     <p align="center">
