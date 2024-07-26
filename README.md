@@ -6,6 +6,5 @@
     </head>
     <body>
       <h3>Hello everyone!</h3>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </body>
 </html>
