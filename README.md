@@ -11,9 +11,9 @@
         <div>
             <h3>About me:</h3>
             <ul>
-                <li><p>Birth date: <p>01.11.2008</p></li>
-                <li><p>In my dreams I want to become <p>Senior DevOps Engineer.</p></li>
-                <li><p>I'm interested in <p>space engineering.</p></li>
+                <li><p>Birth date: <b>01.11.2008</b></li>
+                <li><p>In my dreams I want to become <b>Senior DevOps Engineer.</b></li>
+                <li><p>I'm interested in <b>space engineering.</b></li>
             </ul>
         </div>
     </div>
