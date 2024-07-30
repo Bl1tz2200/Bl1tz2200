@@ -39,7 +39,7 @@
     <div>
         <a href="https://kubernetes.io/"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="15%"></a>
         <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="15%"></a>
-        <a href="https://www.jenkins.io/"><img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="15%"></a>
+        <a href="https://www.jenkins.io/"><img src="https://contributors.jenkins.io/jenkins.png" width="10.5%"></a>
         <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="15%"></a>
         <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="15%"></a>
         <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/448228/grafana.svg" width="15%"></a>
