@@ -12,7 +12,7 @@
             <h3>About me:</h3>
             <ul>
                 <li><p>Birth date: 01.11.2008</p></li>
-                <li><p>In my dreams I want to become FullStack Developer.</p></li>
+                <li><p>In my dreams I want to become Senior DevOps Engineer.</p></li>
                 <li><p>I'm interested in space engineering.</p></li>
             </ul>
         </div>
