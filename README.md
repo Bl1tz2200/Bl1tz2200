@@ -36,7 +36,7 @@
 <br>
 <div>
     <h1 align="center">What I've worked with:</h1>
-    <div>
+    <div align="center">
         <a href="https://kubernetes.io/"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="15%"></a>
         <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="15%"></a>
         <a href="https://www.jenkins.io/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="15%"></a>
