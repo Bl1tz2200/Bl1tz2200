@@ -55,6 +55,7 @@
         <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://www.svgrepo.com/show/355081/js.svg" width="15%"></a>
         <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="15%"></a>
+        <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="15%"></a>
     </div>
 </div>
 <br>
