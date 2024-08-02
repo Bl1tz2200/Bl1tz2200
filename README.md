@@ -49,13 +49,13 @@
         <a href="https://ubuntu.com/"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="15%"></a>
         <a href="https://nginx.org/"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="15%"></a>
         <a href="https://www.apache.org/"><img src="https://www.svgrepo.com/show/373433/apache.svg" width="15%"></a>
-        <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://www.svgrepo.com/show/349402/html5.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://www.svgrepo.com/show/349330/css3.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://www.svgrepo.com/show/355081/js.svg" width="15%"></a>
         <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="15%"></a>
         <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="15%"></a>
+        <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="15%"></a>
     </div>
 </div>
 <br>
