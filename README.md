@@ -37,14 +37,14 @@
 <div>
     <h1 align="center">What I've worked with:</h1>
     <div align="center">
-        <a href="https://kubernetes.io/"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="15%"></a>
+        <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="15%"></a>
         <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="15%"></a>
         <a href="https://www.jenkins.io/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="15%"></a>
         <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="15%"></a>
         <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="15%"></a>
         <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/448228/grafana.svg" width="15%"></a>
+        <a href="https://kubernetes.io/"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="15%"></a>
         <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="15%"></a>
-        <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="15%"></a>
         <a href="https://www.mysql.com/"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="15%"></a>
         <a href="https://ubuntu.com/"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="15%"></a>
         <a href="https://nginx.org/"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="15%"></a>
