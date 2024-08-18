@@ -21,8 +21,8 @@
 <div>
     <h1 align="center">My stats</h1>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200&show_icons=true&theme=dark&icon_color=77d9c6" height="170vw">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" height="170vw">
+        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200&show_icons=true&theme=dark&icon_color=77d9c6" height="180vw">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" height="180vw">
     </div>
 </div>
 <br>
