@@ -52,9 +52,11 @@
         <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://www.svgrepo.com/show/349402/html5.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://www.svgrepo.com/show/349330/css3.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://www.svgrepo.com/show/355081/js.svg" width="15%"></a>
+        <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" width="15%"></a>
+        <a href="https://vitejs.dev/"><img src="https://www.svgrepo.com/show/374167/vite.svg" width="15%"></a>
         <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="15%"></a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="15%"></a>
         <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="15%"></a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="15%"></a>
         <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="15%"></a>
     </div>
 </div>
