@@ -37,41 +37,41 @@
 <div>
     <h1 align="center">What I've studied:</h1>
     <div align="center">
-        <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="10%"></a>
-        <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="10%"></a>
-        <a href="https://www.jenkins.io/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="10%"></a>
-        <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="10%"></a>
-        <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="10%"></a>
-        <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/448228/grafana.svg" width="10%"></a>
-        <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="10%"></a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="10%"></a>
-        <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="10%"></a>
+        <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="12.5%"></a>
+        <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="12.5%"></a>
+        <a href="https://www.jenkins.io/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="12.5%"></a>
+        <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="12.5%"></a>
+        <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="12.5%"></a>
+        <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/448228/grafana.svg" width="12.5%"></a>
+        <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="12.5%"></a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="12.5%"></a>
+        <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="12.5%"></a>
     </div>
 </div>
 <br>
 <div>
     <h1 align="center">What I've worked with:</h1>
     <div align="center">
-        <a href="https://www.mysql.com/"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="10%"></a>
-        <a href="https://ubuntu.com/"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="10%"></a>
-        <a href="https://nginx.org/"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="10%"></a>
-        <a href="https://www.apache.org/"><img src="https://www.svgrepo.com/show/373433/apache.svg" width="10%"></a>
-        <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://www.svgrepo.com/show/349402/html5.svg" width="10%"></a>
-        <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://www.svgrepo.com/show/349330/css3.svg" width="10%"></a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://www.svgrepo.com/show/355081/js.svg" width="10%"></a>
-        <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" width="10%"></a>
-        <a href="https://vitejs.dev/"><img src="https://www.svgrepo.com/show/374167/vite.svg" width="10%"></a>
-        <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="10%"></a>
-        <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="10%"></a>
-        <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/369457/nextjs.svg" width="10%"></a>
-        <a href="https://nestjs.com/"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="10%"></a>
-        <a href="https://nodejs.org/en"><img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="10%"></a>
+        <a href="https://www.mysql.com/"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="12.5%"></a>
+        <a href="https://ubuntu.com/"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="12.5%"></a>
+        <a href="https://nginx.org/"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="12.5%"></a>
+        <a href="https://www.apache.org/"><img src="https://www.svgrepo.com/show/373433/apache.svg" width="12.5%"></a>
+        <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://www.svgrepo.com/show/349402/html5.svg" width="12.5%"></a>
+        <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://www.svgrepo.com/show/349330/css3.svg" width="12.5%"></a>
+        <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://www.svgrepo.com/show/355081/js.svg" width="12.5%"></a>
+        <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" width="12.5%"></a>
+        <a href="https://vitejs.dev/"><img src="https://www.svgrepo.com/show/374167/vite.svg" width="12.5%"></a>
+        <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="12.5%"></a>
+        <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="12.5%"></a>
+        <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/369457/nextjs.svg" width="12.5%"></a>
+        <a href="https://nestjs.com/"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="12.5%"></a>
+        <a href="https://nodejs.org/en"><img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="12.5%"></a>
     </div>
 </div>
 <br>
 <div>
     <h1 align="center"><strong>The best of mine projects you can see below</strong></h1>
     <p align="center">
-        <img src="https://www.reshot.com/preview-assets/icons/KYN7XV4G8S/down-arrow-KYN7XV4G8S.svg" width="300">
+        <img src="https://www.reshot.com/preview-assets/icons/KYN7XV4G8S/down-arrow-KYN7XV4G8S.svg" width="275">
     </p>
 </div>
