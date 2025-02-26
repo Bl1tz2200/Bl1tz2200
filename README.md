@@ -39,7 +39,7 @@
     <div align="center">
         <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="12.5%"></a>
         <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="12.5%"></a>
-        <a href="https://www.jenkins.io/"><img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png" width="12.5%"></a>
+        <a href="https://www.jenkins.io/"><img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="12.5%"></a>
         <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="12.5%"></a>
         <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="12.5%"></a>
         <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/448228/grafana.svg" width="12.5%"></a>
