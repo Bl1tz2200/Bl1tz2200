@@ -11,8 +11,8 @@
         <div>
             <h3>About me:</h3>
             <ul>
-                <li><p>In my dreams I want to become <b>CyberSec's big shot</b> and have solid knowledge about it.</li>
-                <li><p>I'm interested in <b>science fiction.</b></li>
+                <li><p>In my dreams I want to become <b>CyberSec's big shot</b> and have solid knowledge about it.</p></li>
+                <li><p>I'm interested in <b>science fiction.</b></p></li>
             </ul>
         </div>
     </div>
