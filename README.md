@@ -4,14 +4,14 @@
         <div>
             <h3>My skills:</h3></li>
             <ul>
-                <li><p>I can truthfully say that I'm <b>Junior DevOps Engineer.</b></p></li>
-                <li><p>I'm studing <b>Front/Backend Development</b> right now.</p></li>
+                <li><p>I can truthfully say that I'm <b>Junior FullStack developer.</b></p></li>
+                <li><p>I'm learning the ropes of <b>CyberSecurity</b> right now.</p></li>
             </ul>
         </div>
         <div>
             <h3>About me:</h3>
             <ul>
-                <li><p>In my dreams I want to become <b>Senior DevOps Engineer.</b></li>
+                <li><p>In my dreams I want to become <b>CyberSec's big shot</b> and have solid knowledge about it.</li>
                 <li><p>I'm interested in <b>science fiction.</b></li>
             </ul>
         </div>
