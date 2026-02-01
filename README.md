@@ -21,7 +21,7 @@
     <h1 align="center">My stats</h1>
     <div align="center">
         <img src="https://github.com/Bl1tz2200/bl1tz2200/blob/web/profile/stats.svg">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" height="195vw">
+        <img src="https://github.com/Bl1tz2200/bl1tz2200/blob/web/profile/top-langs.svg" height="195vw">
     </div>
 </div>
 <br>
