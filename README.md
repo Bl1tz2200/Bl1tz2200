@@ -20,7 +20,7 @@
 <div>
     <h1 align="center">My stats</h1>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200" height="195vw">
+        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" height="195vw">
     </div>
 </div>
