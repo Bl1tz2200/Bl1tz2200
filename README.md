@@ -50,3 +50,5 @@
         <img src="https://www.reshot.com/preview-assets/icons/KYN7XV4G8S/down-arrow-KYN7XV4G8S.svg" width="275">
     </p>
 </div>
+
+![Stats](./profile/stats.svg)
