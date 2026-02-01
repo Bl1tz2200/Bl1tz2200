@@ -34,7 +34,7 @@
 </div>
 <br>
 <div>
-    <h1 align="center">Abilities: </h1>
+    <h1 align="center">Skills </h1>
     <div align="center">
         <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" width="12.5%"></a>
         <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="12.5%"></a>
