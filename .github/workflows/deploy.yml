@@ -29,9 +29,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          ref: web
           node-version:  20
           cache: 'npm'
+          cache-dependency-path: subdir/package-lock.json
           
       - name: Install dependencies
         run: npm install
@@ -41,17 +41,13 @@ jobs:
         
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          ref: web
+
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          ref: web
           path: 'dist'
           
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          ref: web
