@@ -20,7 +20,7 @@
 <div>
     <h1 align="center">My stats</h1>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200">
+        <img src="https://github-readme-stats.vercel.app/api?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl1tz2200&layout=compact&theme=dark&icon_color=77d9c6" height="195vw">
     </div>
 </div>
@@ -36,11 +36,11 @@
 <div>
     <h1 align="center">Skills </h1>
     <div align="center">
-        <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg"></a>
-        <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="12.5%"></a>
-        <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="12.5%"></a>
-        <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/369457/nextjs.svg" width="12.5%"></a>
-        <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="12.5%"></a>
+        <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" width="10%"></a>
+        <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/374016/python.svg" width="10%"></a>
+        <a href="https://go.dev/"><img src="https://www.svgrepo.com/show/353795/go.svg" width="10%"></a>
+        <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/369457/nextjs.svg" width="10%"></a>
+        <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="10%"></a>
     </div>
 </div>
 <br>
