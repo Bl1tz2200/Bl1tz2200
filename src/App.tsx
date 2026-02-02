@@ -248,7 +248,7 @@ const Block = ({ block }: { block: BlockData }) => {
   else if (isLinkImg && block.imageUrl) bgStyle = { backgroundImage: `url(${block.imageUrl})`, backgroundSize: 'cover', backgroundPosition: `${mediaPos.x}% ${mediaPos.y}%` }
 
   return (
-    <div onClick={handleClick} style={{ ...gridStyle }} className="cursor-pointer h-full transform-gpu">
+    <div onClick={handleClick} style={{ ...gridStyle }} className="h-full transform-gpu">
       <div ref={elementRef} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}
         style={{ ...bgStyle, borderRadius, ...tiltStyle, width: '100%', height: '100%', transformStyle: 'preserve-3d' }}
         className={`bento-item group relative overflow-hidden w-full h-full ${!block.customBackground && !isLinkImg && !isRichYT ? (block.color || 'bg-white') : ''} ${block.textColor || 'text-gray-900'} ring-1 ring-black/5 shadow-sm transition-all`}>
@@ -283,7 +283,7 @@ const Block = ({ block }: { block: BlockData }) => {
               {(block.channelTitle || block.title) && <div className="absolute bottom-0 left-0 right-0 p-3"><h3 className="font-semibold text-white text-sm drop-shadow-lg">{block.channelTitle || block.title}</h3></div>}
             </div>
           ) : (
-            <div className="p-3 h-full flex flex-col justify-between">
+            <div className={`p-3 h-full flex flex-col justify-between ${block.type === BlockType.TEXT ? "" : "cursor-pointer"}`}>
               {block.type === BlockType.SOCIAL && block.socialPlatform && (() => {
                 const platform = SOCIAL_PLATFORMS[block.socialPlatform]
                 const Icon = platform?.icon
@@ -294,7 +294,7 @@ const Block = ({ block }: { block: BlockData }) => {
                   </div>
                 ) : null
               })()}
-              <div className={block.type === BlockType.TEXT ? 'flex flex-col justify-center h-full' : 'mt-auto'}>
+              <div className={block.type === BlockType.TEXT ? 'flex flex-col justify-center h-full cursor-default' : 'mt-auto'}>
                 <h3 className={`font-bold leading-tight ${isLinkImg ? 'text-white drop-shadow-lg' : ''}`}>{block.title}</h3>
                 {block.subtext && <p className={`text-xs mt-1 ${isLinkImg ? 'text-white/80' : 'opacity-60'}`}>{block.subtext}</p>}
                 {block.type === BlockType.TEXT && block.content && <p className="opacity-70 mt-2 text-sm whitespace-pre-wrap">{block.content}</p>}
