@@ -313,61 +313,61 @@ const profile = {"name":"JB1101","bio":"Lifelong student","avatarUrl":"./assets/
 const blocks: BlockData[] = [{"id":"vrnumf33u","type":"TEXT","title":"What's about me?","content":"","colSpan":9,"rowSpan":1,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":1},{"id":"05vb0jmv9","type":"MEDIA","title":"Observe","content":"","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":2,"imageUrl":"./assets/block-05vb0jmv9.png"},{"id":"9a9ddq079","type":"MEDIA","title":"Create","content":"","colSpan":3,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":3,"gridRow":2,"imageUrl":"./assets/block-9a9ddq079.png"},{"id":"8f1323f4-80df-41e7-86a8-65f5ad424ea1","type":"MEDIA","title":"Control","content":"","colSpan":2,"rowSpan":7,"color":"bg-red-500","textColor":"text-white","gridColumn":6,"gridRow":2,"imageUrl":"./assets/block-8f1323f4-80df-41e7-86a8-65f5ad424ea1.png"},{"id":"y1sfpljzr","type":"MEDIA","title":"Play","content":"","colSpan":2,"rowSpan":7,"color":"bg-red-500","textColor":"text-white","gridColumn":8,"gridRow":2,"imageUrl":"./assets/block-y1sfpljzr.png"},{"id":"9p6fmmd4d","type":"MEDIA","title":"Imagine","content":"","colSpan":3,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":5,"imageUrl":"./assets/block-9p6fmmd4d.png"},{"id":"vrsn21m9g","type":"MEDIA","title":"Handle","content":"","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":4,"gridRow":5,"imageUrl":"./assets/block-vrsn21m9g.png"},{"id":"26cpo29if","type":"TEXT","title":"SciFi | Study | Space | Sec","content":"","colSpan":5,"rowSpan":1,"color":"bg-gray-900","textColor":"text-white","gridColumn":1,"gridRow":8},{"id":"md373nqat","type":"MEDIA","title":"","content":"","colSpan":5,"rowSpan":4,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":9,"imageUrl":"./assets/block-md373nqat.png"},{"id":"so2qrvsuv","type":"MEDIA","title":"","content":"","colSpan":4,"rowSpan":4,"color":"bg-white","textColor":"text-gray-900","gridColumn":6,"gridRow":9,"imageUrl":"./assets/block-so2qrvsuv.png"},{"id":"p7afrcqtu","type":"TEXT","title":"Music closet","content":"","colSpan":9,"rowSpan":1,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":13},{"id":"ff821b62-5985-415f-9f09-9e8d937e75eb","type":"LINK","title":"Ghost - 3Force","content":"https://www.shazam.com/song/1621405201/ghost","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":14,"imageUrl":"./assets/block-ff821b62-5985-415f-9f09-9e8d937e75eb.png","zIndex":14,"mediaPosition":{"x":55.113834989552146,"y":8.035714285714299}},{"id":"m8n52ql85","type":"LINK","title":"Rush S - Noice Cream","content":"https://www.shazam.com/song/1635365285/rush-s","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":3,"gridRow":14,"imageUrl":"./assets/block-m8n52ql85.png","zIndex":12,"mediaPosition":{"x":54.68770808363298,"y":47.93956043956045}},{"id":"0da8a045-0e66-4748-a249-0c01376365fb","type":"LINK","title":"Loud Silence - Oudate Electro","content":"https://www.shazam.com/song/1760543302/loud-silence-2","colSpan":3,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":5,"gridRow":14,"imageUrl":"./assets/block-0da8a045-0e66-4748-a249-0c01376365fb.png","zIndex":13,"mediaPosition":{"x":53.83545427179464,"y":64.76648351648353}},{"id":"969622fe-dc52-4727-ab28-8c6730799e06","type":"LINK","title":"Lonely Night - Fury Weekend","content":"https://www.shazam.com/song/1523903309/lonely-night","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-gray-900","gridColumn":8,"gridRow":14,"imageUrl":"./assets/block-969622fe-dc52-4727-ab28-8c6730799e06.png","mediaPosition":{"x":54.68770808363298,"y":47.93956043956045}},{"id":"w0g4v0nwf","type":"TEXT","title":"Get in Touch","content":"","colSpan":9,"rowSpan":1,"color":"bg-white","textColor":"text-gray-900","gridColumn":1,"gridRow":17},{"id":"pskjsp1hf","type":"LINK","title":"Anon Ask","content":"http://t.me/anonaskbot?start=nwak452ygk5lkzb","colSpan":3,"rowSpan":3,"color":"bg-pink-500","textColor":"text-white","gridColumn":3,"gridRow":18,"imageUrl":"./assets/block-pskjsp1hf.png","zIndex":21,"mediaPosition":{"x":47.35318444995865,"y":65}},{"id":"o125le600","type":"SOCIAL","title":"Telegram","content":"https://t.me/bl1tz2200","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-brand","gridColumn":1,"gridRow":18,"socialPlatform":"telegram","socialHandle":"bl1tz2200","subtext":"@bl1tz2200"},{"id":"770e4fb6-c9f1-4a69-84ac-2aeb117fcd86","type":"SOCIAL","title":"Discord","content":"<a>https://discord.com/users/637926492898328577","colSpan":2,"rowSpan":3,"color":"bg-white","textColor":"text-brand","gridColumn":6,"gridRow":18,"socialPlatform":"discord","socialHandle":"users","subtext":"#bl1tz2200"},{"id":"2gwh3s2ts","type":"SOCIAL","title":"GitHub","content":"https://github.com/bl1tz2200","colSpan":2,"rowSpan":3,"color":"bg-gray-900","textColor":"text-white","gridColumn":8,"gridRow":18,"socialPlatform":"github","socialHandle":"bl1tz2200","subtext":"@bl1tz2200"}]
 
 // Analytics hook (uses Edge Function - no API keys exposed)
-const useAnalytics = () => {
-  const sessionStart = useRef(Date.now())
-  const maxScroll = useRef(0)
+// const useAnalytics = () => {
+//   const sessionStart = useRef(Date.now())
+//   const maxScroll = useRef(0)
 
-  useEffect(() => {
-    const handleScroll = () => {
-      const scrollTop = window.scrollY || document.documentElement.scrollTop
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight
-      const scrollPercent = docHeight > 0 ? Math.round((scrollTop / docHeight) * 100) : 0
-      maxScroll.current = Math.max(maxScroll.current, scrollPercent)
-    }
-    window.addEventListener('scroll', handleScroll, { passive: true })
-    return () => window.removeEventListener('scroll', handleScroll)
-  }, [])
+//   useEffect(() => {
+//     const handleScroll = () => {
+//       const scrollTop = window.scrollY || document.documentElement.scrollTop
+//       const docHeight = document.documentElement.scrollHeight - window.innerHeight
+//       const scrollPercent = docHeight > 0 ? Math.round((scrollTop / docHeight) * 100) : 0
+//       maxScroll.current = Math.max(maxScroll.current, scrollPercent)
+//     }
+//     window.addEventListener('scroll', handleScroll, { passive: true })
+//     return () => window.removeEventListener('scroll', handleScroll)
+//   }, [])
 
-  useEffect(() => {
-    const config = profile.analytics
-    if (!config?.enabled || !config?.supabaseUrl) return
+//   useEffect(() => {
+//     const config = profile.analytics
+//     if (!config?.enabled || !config?.supabaseUrl) return
 
-    const track = async (eventType: 'page_view' | 'click', extra: { blockId?: string; destinationUrl?: string } = {}) => {
-      const utm = new URLSearchParams(window.location.search)
-      const payload = {
-        siteId: 'bento_1769938863911_ha7m3e8zb',
-        event: eventType, 
-        blockId: extra.blockId, 
-        destinationUrl: extra.destinationUrl,
-        pageUrl: window.location.href, 
-        referrer: document.referrer || undefined, 
-        utm: {
-          source: utm.get('utm_source') || undefined,
-          medium: utm.get('utm_medium') || undefined,
-          campaign: utm.get('utm_campaign') || undefined,
-          term: utm.get('utm_term') || undefined,
-          content: utm.get('utm_content') || undefined,
-        },
-        language: navigator.language,
-        screenW: window.screen?.width,
-        screenH: window.screen?.height,
-      }
-      // Use Edge Function endpoint (secure - no API keys needed)
-      const endpoint = config.supabaseUrl.replace(/\/+$/, '') + '/functions/v1/openbento-analytics-track'
-      fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
-        keepalive: true,
-      }).catch(() => {})
-    }
+//     const track = async (eventType: 'page_view' | 'click', extra: { blockId?: string; destinationUrl?: string } = {}) => {
+//       const utm = new URLSearchParams(window.location.search)
+//       const payload = {
+//         siteId: 'bento_1769938863911_ha7m3e8zb',
+//         event: eventType, 
+//         blockId: extra.blockId, 
+//         destinationUrl: extra.destinationUrl,
+//         pageUrl: window.location.href, 
+//         referrer: document.referrer || undefined, 
+//         utm: {
+//           source: utm.get('utm_source') || undefined,
+//           medium: utm.get('utm_medium') || undefined,
+//           campaign: utm.get('utm_campaign') || undefined,
+//           term: utm.get('utm_term') || undefined,
+//           content: utm.get('utm_content') || undefined,
+//         },
+//         language: navigator.language,
+//         screenW: window.screen?.width,
+//         screenH: window.screen?.height,
+//       }
+//       // Use Edge Function endpoint (secure - no API keys needed)
+//       const endpoint = config.supabaseUrl.replace(/\/+$/, '') + '/functions/v1/openbento-analytics-track'
+//       fetch(endpoint, {
+//         method: 'POST',
+//         headers: { 'Content-Type': 'application/json' },
+//         body: JSON.stringify(payload),
+//         keepalive: true,
+//       }).catch(() => {})
+//     }
 
-    track('page_view')
+//     track('page_view')
 
-    // Note: session_end is not supported by the Edge Function, only page_view and click
-    // If you need session tracking, extend the Edge Function
-  }, [])
-}
+//     // Note: session_end is not supported by the Edge Function, only page_view and click
+//     // If you need session tracking, extend the Edge Function
+//   }, [])
+// }
 
 
 // Mobile layout helper - calculates responsive grid spans
@@ -387,7 +387,7 @@ const sortedBlocks = [...blocks].sort((a, b) => {
 })
 
 export default function App() {
-  useAnalytics()
+  // useAnalytics()
 
   const avatarStyle = { borderRadius: '1.5rem', boxShadow: '0 25px 50px -12px rgba(0,0,0,0.15)', border: '4px solid #ffffff' }
   const bgStyle: React.CSSProperties = { backgroundColor: '#ffffff' }
